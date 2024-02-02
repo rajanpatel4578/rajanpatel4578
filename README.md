@@ -1,10 +1,8 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my 
-<p>
- <img src="https://github.com/rajanpatel4578/rajanpatel4578/assets/33018692/b5e76a1f-20db-4c31-bc81-0d37036735fa" width="300" height="200" alt="Description of your image">
-</p>
+### Hello Visitor! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Welcome to my  <a> <img src="https://github.com/rajanpatel4578/rajanpatel4578/assets/33018692/b5e76a1f-20db-4c31-bc81-0d37036735fa" width="300" height="200" alt="Description of your image"> </a>
 
-<!--![](https://komarev.com/ghpvc/?username=rajanpatel4578&color=blueviolet&abbreviated=true)-->
-
+![](https://komarev.com/ghpvc/?username=rajanpatel4578&color=blueviolet&abbreviated=true)
+### ABOUT ME
+I am a recent graduate from UIUC's Masters of Computer Science Program. I have good backend and a little front-end software engineering experience. I also have the fundatmentals of machine learning, and some experience training, optimizing, and improving models. As of Feb 2024, I am looking for entry-level software engineering job.
 
 ### Skills
 <table>
