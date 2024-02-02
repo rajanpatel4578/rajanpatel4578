@@ -3,7 +3,7 @@
  <img src="https://github.com/rajanpatel4578/rajanpatel4578/assets/33018692/b5e76a1f-20db-4c31-bc81-0d37036735fa" width="300" height="200" alt="Description of your image">
 </p>
 
-![](https://komarev.com/ghpvc/?username=rajanpatel4578)
+<!--![](https://komarev.com/ghpvc/?username=rajanpatel4578&color=blueviolet&abbreviated=true)-->
 
 
 ### Skills
